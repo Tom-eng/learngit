@@ -1,2 +1,2 @@
 this is my first git.
-good thing
+good thing is everywhere.
